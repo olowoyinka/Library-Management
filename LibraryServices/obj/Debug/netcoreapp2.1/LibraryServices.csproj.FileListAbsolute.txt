@@ -1,0 +1,12 @@
+C:\Users\fela\Documents\Visual Studio 2017\Projects\Web Development\Core 2 Application\LibraryManagement\LibraryServices\bin\Debug\netcoreapp2.1\LibraryServices.deps.json
+C:\Users\fela\Documents\Visual Studio 2017\Projects\Web Development\Core 2 Application\LibraryManagement\LibraryServices\bin\Debug\netcoreapp2.1\LibraryServices.dll
+C:\Users\fela\Documents\Visual Studio 2017\Projects\Web Development\Core 2 Application\LibraryManagement\LibraryServices\bin\Debug\netcoreapp2.1\LibraryServices.pdb
+C:\Users\fela\Documents\Visual Studio 2017\Projects\Web Development\Core 2 Application\LibraryManagement\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.csprojAssemblyReference.cache
+C:\Users\fela\Documents\Visual Studio 2017\Projects\Web Development\Core 2 Application\LibraryManagement\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.csproj.CoreCompileInputs.cache
+C:\Users\fela\Documents\Visual Studio 2017\Projects\Web Development\Core 2 Application\LibraryManagement\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.AssemblyInfoInputs.cache
+C:\Users\fela\Documents\Visual Studio 2017\Projects\Web Development\Core 2 Application\LibraryManagement\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.AssemblyInfo.cs
+C:\Users\fela\Documents\Visual Studio 2017\Projects\Web Development\Core 2 Application\LibraryManagement\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.dll
+C:\Users\fela\Documents\Visual Studio 2017\Projects\Web Development\Core 2 Application\LibraryManagement\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.pdb
+C:\Users\fela\Documents\Visual Studio 2017\Projects\Web Development\Core 2 Application\LibraryManagement\LibraryServices\bin\Debug\netcoreapp2.1\LibraryData.dll
+C:\Users\fela\Documents\Visual Studio 2017\Projects\Web Development\Core 2 Application\LibraryManagement\LibraryServices\bin\Debug\netcoreapp2.1\LibraryData.pdb
+C:\Users\fela\Documents\Visual Studio 2017\Projects\Web Development\Core 2 Application\LibraryManagement\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.csproj.CopyComplete

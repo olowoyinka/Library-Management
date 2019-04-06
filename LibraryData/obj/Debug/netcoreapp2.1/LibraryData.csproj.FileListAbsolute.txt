@@ -1,0 +1,11 @@
+C:\Users\fela\Documents\Visual Studio 2017\Projects\Web Development\Core 2 Application\LibraryManagement\LibraryData\bin\Debug\netcoreapp2.1\LibraryData.deps.json
+C:\Users\fela\Documents\Visual Studio 2017\Projects\Web Development\Core 2 Application\LibraryManagement\LibraryData\bin\Debug\netcoreapp2.1\LibraryData.runtimeconfig.json
+C:\Users\fela\Documents\Visual Studio 2017\Projects\Web Development\Core 2 Application\LibraryManagement\LibraryData\bin\Debug\netcoreapp2.1\LibraryData.runtimeconfig.dev.json
+C:\Users\fela\Documents\Visual Studio 2017\Projects\Web Development\Core 2 Application\LibraryManagement\LibraryData\bin\Debug\netcoreapp2.1\LibraryData.dll
+C:\Users\fela\Documents\Visual Studio 2017\Projects\Web Development\Core 2 Application\LibraryManagement\LibraryData\bin\Debug\netcoreapp2.1\LibraryData.pdb
+C:\Users\fela\Documents\Visual Studio 2017\Projects\Web Development\Core 2 Application\LibraryManagement\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.csprojAssemblyReference.cache
+C:\Users\fela\Documents\Visual Studio 2017\Projects\Web Development\Core 2 Application\LibraryManagement\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.csproj.CoreCompileInputs.cache
+C:\Users\fela\Documents\Visual Studio 2017\Projects\Web Development\Core 2 Application\LibraryManagement\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.AssemblyInfoInputs.cache
+C:\Users\fela\Documents\Visual Studio 2017\Projects\Web Development\Core 2 Application\LibraryManagement\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.AssemblyInfo.cs
+C:\Users\fela\Documents\Visual Studio 2017\Projects\Web Development\Core 2 Application\LibraryManagement\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.dll
+C:\Users\fela\Documents\Visual Studio 2017\Projects\Web Development\Core 2 Application\LibraryManagement\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.pdb
